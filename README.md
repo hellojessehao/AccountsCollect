@@ -16,5 +16,3 @@
 4.账号添加界面：
 ![image](https://github.com/hellojessehao/AccountsCollect/blob/master/app/src/main/res/mipmap-hdpi/md_ic_4.png)
 
-5.单个账号详情查看及修改界面：
-![image](https://github.com/hellojessehao/AccountsCollect/blob/master/app/src/main/res/mipmap-hdpi/md_ic_5.png)
